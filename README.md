@@ -6,6 +6,7 @@ When evaluating whether to invest in assets, you must not only look at how much 
 Let us understand the Sharpe ratio by calculating the Sharpe ratio of the stocks of the two tech giants Facebook and Amazon. As a benchmark, we will use the S&P 500 to measure the performance of the top 500 US stocks. When we use a stock index instead of a risk-free rate, the result is called the information ratio, which is used to measure the return of active portfolio management because it can tell you how much return a portfolio manager can get at a given risk unit relative to Put your money into low-cost index funds.
 
 **Visualize the Data**
+
 Before comparing investments in Facebook or Amazon with the index of the 500 largest companies in the United States, let's visualize the data so that we can better understand what we are dealing with.
 
 ![](Graphs/Daily-Prices2.png)
@@ -29,6 +30,7 @@ Next, we calculate the relative performance of the stock relative to the S&P 500
 ![](Graphs/excess-returns.png)
 
 **Computing the Sharpe Ratio**
+
 Now we can finally start calculating the Sharpe ratio. First, we need to calculate the average of excess_returns. This tells us how much money or less investment income is compared to the benchmark each day.
 
 ![](Graphs/avg-excess-return.png)

@@ -7,6 +7,7 @@ Let us understand the Sharpe ratio by calculating the Sharpe ratio of the stocks
 
 Before comparing investments in Facebook or Amazon with the index of the 500 largest companies in the United States, let's visualize the data so that we can better understand what we are dealing with.
 
+![](Graphs/Daily-Prices2.png)
 ![](Graphs/Daily-Prices.png)
 
 Let's also take a closer look at the value of the S&P 500, our benchmark.
